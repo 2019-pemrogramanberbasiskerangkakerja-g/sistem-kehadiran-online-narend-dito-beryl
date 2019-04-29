@@ -1,0 +1,51 @@
+body
+{
+background-repeat:no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-color: #404040;
+}
+
+input[type="text"] {
+border: 2px solid #32829D;
+background: #ffffff;
+color:#32829D;
+}
+
+input[type="password"] {
+border: 2px solid #32829D;
+background: #ffffff;
+color:#32829D;
+}
+
+#box
+{
+position: absolute;
+width: 50%;
+height: 30%;
+left: 42%;
+top: 45%;
+}
+
+#box_success
+{
+position: absolute;
+width: 50%;
+height: 30%;
+left: 39%;
+top: 45%;
+}
+
+#text
+{
+font-family:arial;
+color:white;
+font-size:12px;
+}
+
+#text_success
+{
+font-family:arial;
+color:white;
+font-size:38px;
+}
